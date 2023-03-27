@@ -1,9 +1,4 @@
-### Olá!!! Eu sou o Gabriel Marques 😉
-
-- 🧠 
-- 📖 
-- 🖥 
-- 😄 
+### Olá!!! Eu sou o Gabriel Marques 😉 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCostaMarques&show_icons=true&theme=radical)
 
