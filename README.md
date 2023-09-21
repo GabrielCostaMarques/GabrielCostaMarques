@@ -5,7 +5,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front End e gosto muito de compartilhar meus projetos aqui.
+    Sou Desenvolvedor Front End e compartilho meus projetos aqui.
     <a href="#">
       
 <div align="center">
