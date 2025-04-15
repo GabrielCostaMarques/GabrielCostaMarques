@@ -1,21 +1,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=header"/>
 <div>
   
-  <h1 align="center">
-    Hey, how are you? I'm Gabriel Marques 😃
-  </h1>
+<h3 align="center">
+  Hey, how are you? I'm Gabriel Marques 😃
+</h3>
   
-  <h3 align=center >
-    I'm Back-end Developer and share my projects here 🚀
-  </h3>
+<h3 align=center >
+  I'm Back-end Developer and share my projects here 🚀
+</h3>
   
-<br><br>
-        <h2 align=center >My Stats ⚡</h2>
+<h2></h2>
+<h4 align=center >My Stats ⚡</h4>
+ 
  <div align="center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCostaMarques&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCostaMarques&layout=compact&langs_count=6&theme=midnight-purple"/>
  </div>
-
 <div align="center" valign="top">
   <br>
     <img align="center" alt="Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
@@ -30,7 +30,7 @@
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
 </div>
-<br><br>
+<h2>
 
 <h3 align=center>Featured Projects</h3>
 <div align="center">
