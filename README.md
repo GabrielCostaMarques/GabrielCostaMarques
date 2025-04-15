@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0911b2&height=120&section=header"/>
 <div>
   
   <h1 align="center">
@@ -8,8 +9,10 @@
     Sou Desenvolvedor e compartilho meus projetos aqui.
     <a href="#">
       
-<div>
+Meus Status ⚡
+ <div align="center">
    <a href="https://github.com/GabrielCostaMarques">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCostaMarques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCostaMarques&layout=compact&langs_count=6&theme=tokyonight"/>
  </div>
 
@@ -32,3 +35,9 @@
   <a href="https://instagram.com/bielcmqs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielCostaMarques/GabrielCostaMarques/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielCostaMarques/GabrielCostaMarques/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabrielCostaMarques/GabrielCostaMarques/output/pacman-contribution-graph.svg">
+</picture>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0911b2&height=120&section=footer"/>
