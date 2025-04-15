@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0911b2&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=header"/>
 <div>
   
   <h1 align="center">
@@ -39,4 +39,4 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/GabrielCostaMarques/GabrielCostaMarques/output/snake.svg" alt="Snake animation" />
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0911b2&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer"/>
