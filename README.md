@@ -2,21 +2,22 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou o Gabriel Marques 😃
+    Hey, how are you? I'm Gabriel Marques 😃
   </h1>
   
   <h3 align=center >
-    Sou Desenvolvedor e compartilho meus projetos aqui.
+    I'm Back-end Developer and share my projects here 🚀
   </h3>
   
 <br><br>
-      Meus Status ⚡
+        <h2 align=center >My Stats ⚡</h2>
  <div align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCostaMarques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCostaMarques&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCostaMarques&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCostaMarques&layout=compact&langs_count=6&theme=midnight-purple"/>
  </div>
 
-<div align="center" valign="top"><br>
+<div align="center" valign="top">
+  <br>
     <img align="center" alt="Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
     <img align="center" alt=".NET" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Blazor" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg">
@@ -29,13 +30,21 @@
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
 </div>
-<br><br><br>
+<br><br>
 
+<h3 align=center>Featured Projects</h3>
+<div align="center">
+  
+[![Badge do Projeto 1](https://img.shields.io/badge/SalesWebMVC-blue)](https://github.com/GabrielCostaMarques/SalesWebMvc.git)
+[![Badge do Projeto 2](https://img.shields.io/badge/EstoqueR11-green)](https://github.com/GabrielCostaMarques/EstoqueR11)
+</div>
+ 
+<h3 align=center >Socials</h3>
 <div align="center">
    <a href="https://www.linkedin.com/in/gabriel-marques-6b4b22208" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/bielcmqs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-<br><br>
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/GabrielCostaMarques/GabrielCostaMarques/output/snake.svg" alt="Snake animation" />
 </div>
