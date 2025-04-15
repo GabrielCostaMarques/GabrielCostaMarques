@@ -35,9 +35,7 @@ Meus Status ⚡
   <a href="https://instagram.com/bielcmqs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielCostaMarques/GabrielCostaMarques/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielCostaMarques/GabrielCostaMarques/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabrielCostaMarques/GabrielCostaMarques/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/GabrielCostaMarques/GabrielCostaMarques/output/snake.svg" alt="Snake animation" />
+
+###
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0911b2&height=120&section=footer"/>
