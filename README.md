@@ -6,7 +6,7 @@
 </h3>
   
 <h3 align=center >
-  I'm Back-end Developer and share my projects here 🚀
+  I'm Full-Stack Developer and share my projects here 🚀
 </h3>
   
 <h2></h2>
