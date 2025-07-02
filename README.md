@@ -37,7 +37,7 @@
   
 [![Badge do Projeto 1](https://img.shields.io/badge/Portfolio-purple)](https://portifoliogabrielmarques.com/)
 [![Badge do Projeto 1](https://img.shields.io/badge/SalesWebMVC-blue)](https://github.com/GabrielCostaMarques/SalesWebMvc.git)
-[![Badge do Projeto 2](https://img.shields.io/badge/EstoqueR11-green)](https://github.com/GabrielCostaMarques/EstoqueR11)
+[![Badge do Projeto 2](https://img.shields.io/badge/StorageProject-green)](https://github.com/GabrielCostaMarques/StorageProject)
 </div>
  
 <h3 align=center >Socials</h3>
