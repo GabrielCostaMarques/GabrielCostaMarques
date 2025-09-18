@@ -12,8 +12,8 @@
 <h2></h2>
 <h4 align=center >My Stats ⚡</h4>
   <div align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCostaMarques&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCostaMarques&layout=compact&langs_count=6&theme=midnight-purple"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCostaMarques&show_icons=true&theme=midnight-purple&include_all_commits=true&cache_seconds=86400"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCostaMarques&layout=compact&langs_count=6&theme=midnight-purple&cache_seconds=86400"/>
  </div>
 <div align="center" valign="top">
 
@@ -21,6 +21,7 @@
     <img align="center" alt="Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
     <img align="center" alt=".NET" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Blazor" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg">
+  <img align="center" alt="Docker" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
