@@ -23,6 +23,7 @@
   <img align="center" alt="Blazor" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg">
   <img align="center" alt="Docker" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg">
@@ -36,7 +37,7 @@
 <h3 align=center>Featured Projects</h3>
 <div align="center">
   
-[![Badge do Projeto 1](https://img.shields.io/badge/Portfolio-purple)](https://portifoliogabrielmarques.com/)
+[![Badge do Projeto 1](https://img.shields.io/badge/Portfolio-purple)](https://gabrielcostamarques.github.io/My-Portfolio/)
 [![Badge do Projeto 1](https://img.shields.io/badge/SalesWebMVC-blue)](https://github.com/GabrielCostaMarques/SalesWebMvc.git)
 [![Badge do Projeto 2](https://img.shields.io/badge/StorageProject-green)](https://github.com/GabrielCostaMarques/StorageProject)
 </div>
