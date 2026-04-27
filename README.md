@@ -22,7 +22,7 @@
 
 ## 👋 Sobre Mim
 
-Sou **Desenvolvedor Full-Stack** com forte foco em **experiências front-end**, baseado no Brasil. Construo aplicações web escaláveis com arquitetura limpa e atenção apurada à qualidade de UI.
+Sou **Desenvolvedor Full-Stack** com forte foco em **experiências back-end**. Construo aplicações web escaláveis com arquitetura limpa e atenção apurada à qualidade.
 
 - 🔭 Atualmente trabalhando com soluções em **.NET**, **React** e **WordPress**
 - 🐳 Containerizando aplicações com **Docker** para deploys confiáveis
