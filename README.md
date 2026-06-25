@@ -116,7 +116,7 @@ Sou **Desenvolvedor Full-Stack** com forte foco em **experiências back-end**. C
     <img src="https://img.shields.io/badge/🛒%20SalesWebMVC-App%20.NET%20MVC-1f6feb?style=for-the-badge&logoColor=white" alt="SalesWebMVC"/>
   </a>
   &nbsp;
-  <a href="https://github.com/GabrielCostaMarques/StorageProject">
+  <a href="https://github.com/orgs/StorageAppOfWizard/repositories">
     <img src="https://img.shields.io/badge/📦%20StorageProject-Sistema%20de%20Armazenamento-238636?style=for-the-badge&logoColor=white" alt="StorageProject"/>
   </a>
 
