@@ -26,7 +26,7 @@ Sou **Desenvolvedor Full-Stack** com forte foco em **experiências back-end**. C
 
 - 🔭 Atualmente trabalhando com soluções em **.NET**, **React** e **WordPress**
 - 🐳 Containerizando aplicações com **Docker** para deploys confiáveis
-- 🗄️ Experiente com **PostgreSQL** e **MySQL**
+- 🗄️ Experiente com **PostgreSQL** e **SqlServer**
 - 🌐 Apaixonado por APIs bem construídas e padrões modernos de back-end
 - 📚 Em constante evolução aprendendo, construindo e entregando
 
